@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/haiercash/!svn/ver/20870/HaiercashPayAPP/branches/IosBranch%E5%97%A8%E4%BB%98/2017.4%E5%95%86%E5%9F%8E%E4%B8%8A%E7%BA%BF%E7%89%88%E6%9C%AC/personMerchants/MyBlocksKit.framework/Headers
+END
+UIView+BlocksKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 208
+/svn/haiercash/!svn/ver/20870/HaiercashPayAPP/branches/IosBranch%E5%97%A8%E4%BB%98/2017.4%E5%95%86%E5%9F%8E%E4%B8%8A%E7%BA%BF%E7%89%88%E6%9C%AC/personMerchants/MyBlocksKit.framework/Headers/UIView+BlocksKit.h
+END
+NSMutableOrderedSet+BlocksKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 221
+/svn/haiercash/!svn/ver/20870/HaiercashPayAPP/branches/IosBranch%E5%97%A8%E4%BB%98/2017.4%E5%95%86%E5%9F%8E%E4%B8%8A%E7%BA%BF%E7%89%88%E6%9C%AC/personMerchants/MyBlocksKit.framework/Headers/NSMutableOrderedSet+BlocksKit.h
+END
+NSTimer+BlocksKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 209
+/svn/haiercash/!svn/ver/20870/HaiercashPayAPP/branches/IosBranch%E5%97%A8%E4%BB%98/2017.4%E5%95%86%E5%9F%8E%E4%B8%8A%E7%BA%BF%E7%89%88%E6%9C%AC/personMerchants/MyBlocksKit.framework/Headers/NSTimer+BlocksKit.h
+END
+QLPreviewController+BlocksKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 221
+/svn/haiercash/!svn/ver/20870/HaiercashPayAPP/branches/IosBranch%E5%97%A8%E4%BB%98/2017.4%E5%95%86%E5%9F%8E%E4%B8%8A%E7%BA%BF%E7%89%88%E6%9C%AC/personMerchants/MyBlocksKit.framework/Headers/QLPreviewController+BlocksKit.h
+END
+NSIndexSet+BlocksKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 212
+/svn/haiercash/!svn/ver/20870/HaiercashPayAPP/branches/IosBranch%E5%97%A8%E4%BB%98/2017.4%E5%95%86%E5%9F%8E%E4%B8%8A%E7%BA%BF%E7%89%88%E6%9C%AC/personMerchants/MyBlocksKit.framework/Headers/NSIndexSet+BlocksKit.h
+END
+BlocksKit+UIKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/svn/haiercash/!svn/ver/20870/HaiercashPayAPP/branches/IosBranch%E5%97%A8%E4%BB%98/2017.4%E5%95%86%E5%9F%8E%E4%B8%8A%E7%BA%BF%E7%89%88%E6%9C%AC/personMerchants/MyBlocksKit.framework/Headers/BlocksKit+UIKit.h
+END
+A2BlockInvocation.h
+K 25
+svn:wc:ra_dav:version-url
+V 209
+/svn/haiercash/!svn/ver/20870/HaiercashPayAPP/branches/IosBranch%E5%97%A8%E4%BB%98/2017.4%E5%95%86%E5%9F%8E%E4%B8%8A%E7%BA%BF%E7%89%88%E6%9C%AC/personMerchants/MyBlocksKit.framework/Headers/A2BlockInvocation.h
+END
+UITextField+BlocksKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 213
+/svn/haiercash/!svn/ver/20870/HaiercashPayAPP/branches/IosBranch%E5%97%A8%E4%BB%98/2017.4%E5%95%86%E5%9F%8E%E4%B8%8A%E7%BA%BF%E7%89%88%E6%9C%AC/personMerchants/MyBlocksKit.framework/Headers/UITextField+BlocksKit.h
+END
+NSObject+BKAssociatedObjects.h
+K 25
+svn:wc:ra_dav:version-url
+V 220
+/svn/haiercash/!svn/ver/20870/HaiercashPayAPP/branches/IosBranch%E5%97%A8%E4%BB%98/2017.4%E5%95%86%E5%9F%8E%E4%B8%8A%E7%BA%BF%E7%89%88%E6%9C%AC/personMerchants/MyBlocksKit.framework/Headers/NSObject+BKAssociatedObjects.h
+END
+NSNumber+BlocksKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 210
+/svn/haiercash/!svn/ver/20870/HaiercashPayAPP/branches/IosBranch%E5%97%A8%E4%BB%98/2017.4%E5%95%86%E5%9F%8E%E4%B8%8A%E7%BA%BF%E7%89%88%E6%9C%AC/personMerchants/MyBlocksKit.framework/Headers/NSNumber+BlocksKit.h
+END
+NSMutableArray+BlocksKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/svn/haiercash/!svn/ver/20870/HaiercashPayAPP/branches/IosBranch%E5%97%A8%E4%BB%98/2017.4%E5%95%86%E5%9F%8E%E4%B8%8A%E7%BA%BF%E7%89%88%E6%9C%AC/personMerchants/MyBlocksKit.framework/Headers/NSMutableArray+BlocksKit.h
+END
+NSObject+A2BlockDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/svn/haiercash/!svn/ver/20870/HaiercashPayAPP/branches/IosBranch%E5%97%A8%E4%BB%98/2017.4%E5%95%86%E5%9F%8E%E4%B8%8A%E7%BA%BF%E7%89%88%E6%9C%AC/personMerchants/MyBlocksKit.framework/Headers/NSObject+A2BlockDelegate.h
+END
+NSSet+BlocksKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/svn/haiercash/!svn/ver/20870/HaiercashPayAPP/branches/IosBranch%E5%97%A8%E4%BB%98/2017.4%E5%95%86%E5%9F%8E%E4%B8%8A%E7%BA%BF%E7%89%88%E6%9C%AC/personMerchants/MyBlocksKit.framework/Headers/NSSet+BlocksKit.h
+END
+NSOrderedSet+BlocksKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 214
+/svn/haiercash/!svn/ver/20870/HaiercashPayAPP/branches/IosBranch%E5%97%A8%E4%BB%98/2017.4%E5%95%86%E5%9F%8E%E4%B8%8A%E7%BA%BF%E7%89%88%E6%9C%AC/personMerchants/MyBlocksKit.framework/Headers/NSOrderedSet+BlocksKit.h
+END
+UIGestureRecognizer+BlocksKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 221
+/svn/haiercash/!svn/ver/20870/HaiercashPayAPP/branches/IosBranch%E5%97%A8%E4%BB%98/2017.4%E5%95%86%E5%9F%8E%E4%B8%8A%E7%BA%BF%E7%89%88%E6%9C%AC/personMerchants/MyBlocksKit.framework/Headers/UIGestureRecognizer+BlocksKit.h
+END
+BKDefines.h
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/svn/haiercash/!svn/ver/20870/HaiercashPayAPP/branches/IosBranch%E5%97%A8%E4%BB%98/2017.4%E5%95%86%E5%9F%8E%E4%B8%8A%E7%BA%BF%E7%89%88%E6%9C%AC/personMerchants/MyBlocksKit.framework/Headers/BKDefines.h
+END
+NSInvocation+BlocksKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 214
+/svn/haiercash/!svn/ver/20870/HaiercashPayAPP/branches/IosBranch%E5%97%A8%E4%BB%98/2017.4%E5%95%86%E5%9F%8E%E4%B8%8A%E7%BA%BF%E7%89%88%E6%9C%AC/personMerchants/MyBlocksKit.framework/Headers/NSInvocation+BlocksKit.h
+END
+UITextView+BlocksKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 212
+/svn/haiercash/!svn/ver/20870/HaiercashPayAPP/branches/IosBranch%E5%97%A8%E4%BB%98/2017.4%E5%95%86%E5%9F%8E%E4%B8%8A%E7%BA%BF%E7%89%88%E6%9C%AC/personMerchants/MyBlocksKit.framework/Headers/UITextView+BlocksKit.h
+END
+UIBarButtonItem+BlocksKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 217
+/svn/haiercash/!svn/ver/20870/HaiercashPayAPP/branches/IosBranch%E5%97%A8%E4%BB%98/2017.4%E5%95%86%E5%9F%8E%E4%B8%8A%E7%BA%BF%E7%89%88%E6%9C%AC/personMerchants/MyBlocksKit.framework/Headers/UIBarButtonItem+BlocksKit.h
+END
+NSObject+BKBlockExecution.h
+K 25
+svn:wc:ra_dav:version-url
+V 217
+/svn/haiercash/!svn/ver/20870/HaiercashPayAPP/branches/IosBranch%E5%97%A8%E4%BB%98/2017.4%E5%95%86%E5%9F%8E%E4%B8%8A%E7%BA%BF%E7%89%88%E6%9C%AC/personMerchants/MyBlocksKit.framework/Headers/NSObject+BKBlockExecution.h
+END
+UIControl+BlocksKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 211
+/svn/haiercash/!svn/ver/20870/HaiercashPayAPP/branches/IosBranch%E5%97%A8%E4%BB%98/2017.4%E5%95%86%E5%9F%8E%E4%B8%8A%E7%BA%BF%E7%89%88%E6%9C%AC/personMerchants/MyBlocksKit.framework/Headers/UIControl+BlocksKit.h
+END
+NSArray+BlocksKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 209
+/svn/haiercash/!svn/ver/20870/HaiercashPayAPP/branches/IosBranch%E5%97%A8%E4%BB%98/2017.4%E5%95%86%E5%9F%8E%E4%B8%8A%E7%BA%BF%E7%89%88%E6%9C%AC/personMerchants/MyBlocksKit.framework/Headers/NSArray+BlocksKit.h
+END
+UIImage+BlocksKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 209
+/svn/haiercash/!svn/ver/20870/HaiercashPayAPP/branches/IosBranch%E5%97%A8%E4%BB%98/2017.4%E5%95%86%E5%9F%8E%E4%B8%8A%E7%BA%BF%E7%89%88%E6%9C%AC/personMerchants/MyBlocksKit.framework/Headers/UIImage+BlocksKit.h
+END
+BKMacros.h
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/svn/haiercash/!svn/ver/20870/HaiercashPayAPP/branches/IosBranch%E5%97%A8%E4%BB%98/2017.4%E5%95%86%E5%9F%8E%E4%B8%8A%E7%BA%BF%E7%89%88%E6%9C%AC/personMerchants/MyBlocksKit.framework/Headers/BKMacros.h
+END
+NSMutableDictionary+BlocksKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 221
+/svn/haiercash/!svn/ver/20870/HaiercashPayAPP/branches/IosBranch%E5%97%A8%E4%BB%98/2017.4%E5%95%86%E5%9F%8E%E4%B8%8A%E7%BA%BF%E7%89%88%E6%9C%AC/personMerchants/MyBlocksKit.framework/Headers/NSMutableDictionary+BlocksKit.h
+END
+A2DynamicDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 209
+/svn/haiercash/!svn/ver/20870/HaiercashPayAPP/branches/IosBranch%E5%97%A8%E4%BB%98/2017.4%E5%95%86%E5%9F%8E%E4%B8%8A%E7%BA%BF%E7%89%88%E6%9C%AC/personMerchants/MyBlocksKit.framework/Headers/A2DynamicDelegate.h
+END
+UIImagePickerController+BlocksKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 225
+/svn/haiercash/!svn/ver/20870/HaiercashPayAPP/branches/IosBranch%E5%97%A8%E4%BB%98/2017.4%E5%95%86%E5%9F%8E%E4%B8%8A%E7%BA%BF%E7%89%88%E6%9C%AC/personMerchants/MyBlocksKit.framework/Headers/UIImagePickerController+BlocksKit.h
+END
+BlocksKit+MessageUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 211
+/svn/haiercash/!svn/ver/20870/HaiercashPayAPP/branches/IosBranch%E5%97%A8%E4%BB%98/2017.4%E5%95%86%E5%9F%8E%E4%B8%8A%E7%BA%BF%E7%89%88%E6%9C%AC/personMerchants/MyBlocksKit.framework/Headers/BlocksKit+MessageUI.h
+END
+NSURLConnection+BlocksKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 217
+/svn/haiercash/!svn/ver/20870/HaiercashPayAPP/branches/IosBranch%E5%97%A8%E4%BB%98/2017.4%E5%95%86%E5%9F%8E%E4%B8%8A%E7%BA%BF%E7%89%88%E6%9C%AC/personMerchants/MyBlocksKit.framework/Headers/NSURLConnection+BlocksKit.h
+END
+NSObject+A2DynamicDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 218
+/svn/haiercash/!svn/ver/20870/HaiercashPayAPP/branches/IosBranch%E5%97%A8%E4%BB%98/2017.4%E5%95%86%E5%9F%8E%E4%B8%8A%E7%BA%BF%E7%89%88%E6%9C%AC/personMerchants/MyBlocksKit.framework/Headers/NSObject+A2DynamicDelegate.h
+END
+NSMapTable+BlocksKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 212
+/svn/haiercash/!svn/ver/20870/HaiercashPayAPP/branches/IosBranch%E5%97%A8%E4%BB%98/2017.4%E5%95%86%E5%9F%8E%E4%B8%8A%E7%BA%BF%E7%89%88%E6%9C%AC/personMerchants/MyBlocksKit.framework/Headers/NSMapTable+BlocksKit.h
+END
+MFMailComposeViewController+BlocksKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 229
+/svn/haiercash/!svn/ver/20870/HaiercashPayAPP/branches/IosBranch%E5%97%A8%E4%BB%98/2017.4%E5%95%86%E5%9F%8E%E4%B8%8A%E7%BA%BF%E7%89%88%E6%9C%AC/personMerchants/MyBlocksKit.framework/Headers/MFMailComposeViewController+BlocksKit.h
+END
+MFMessageComposeViewController+BlocksKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 232
+/svn/haiercash/!svn/ver/20870/HaiercashPayAPP/branches/IosBranch%E5%97%A8%E4%BB%98/2017.4%E5%95%86%E5%9F%8E%E4%B8%8A%E7%BA%BF%E7%89%88%E6%9C%AC/personMerchants/MyBlocksKit.framework/Headers/MFMessageComposeViewController+BlocksKit.h
+END
+UIPopoverController+BlocksKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 221
+/svn/haiercash/!svn/ver/20870/HaiercashPayAPP/branches/IosBranch%E5%97%A8%E4%BB%98/2017.4%E5%95%86%E5%9F%8E%E4%B8%8A%E7%BA%BF%E7%89%88%E6%9C%AC/personMerchants/MyBlocksKit.framework/Headers/UIPopoverController+BlocksKit.h
+END
+NSMutableIndexSet+BlocksKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 219
+/svn/haiercash/!svn/ver/20870/HaiercashPayAPP/branches/IosBranch%E5%97%A8%E4%BB%98/2017.4%E5%95%86%E5%9F%8E%E4%B8%8A%E7%BA%BF%E7%89%88%E6%9C%AC/personMerchants/MyBlocksKit.framework/Headers/NSMutableIndexSet+BlocksKit.h
+END
+UIAlertView+BlocksKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 213
+/svn/haiercash/!svn/ver/20870/HaiercashPayAPP/branches/IosBranch%E5%97%A8%E4%BB%98/2017.4%E5%95%86%E5%9F%8E%E4%B8%8A%E7%BA%BF%E7%89%88%E6%9C%AC/personMerchants/MyBlocksKit.framework/Headers/UIAlertView+BlocksKit.h
+END
+BlocksKit+QuickLook.h
+K 25
+svn:wc:ra_dav:version-url
+V 211
+/svn/haiercash/!svn/ver/20870/HaiercashPayAPP/branches/IosBranch%E5%97%A8%E4%BB%98/2017.4%E5%95%86%E5%9F%8E%E4%B8%8A%E7%BA%BF%E7%89%88%E6%9C%AC/personMerchants/MyBlocksKit.framework/Headers/BlocksKit+QuickLook.h
+END
+BlocksKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/svn/haiercash/!svn/ver/20870/HaiercashPayAPP/branches/IosBranch%E5%97%A8%E4%BB%98/2017.4%E5%95%86%E5%9F%8E%E4%B8%8A%E7%BA%BF%E7%89%88%E6%9C%AC/personMerchants/MyBlocksKit.framework/Headers/BlocksKit.h
+END
+NSCache+BlocksKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 209
+/svn/haiercash/!svn/ver/20870/HaiercashPayAPP/branches/IosBranch%E5%97%A8%E4%BB%98/2017.4%E5%95%86%E5%9F%8E%E4%B8%8A%E7%BA%BF%E7%89%88%E6%9C%AC/personMerchants/MyBlocksKit.framework/Headers/NSCache+BlocksKit.h
+END
+UIActionSheet+BlocksKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 215
+/svn/haiercash/!svn/ver/20870/HaiercashPayAPP/branches/IosBranch%E5%97%A8%E4%BB%98/2017.4%E5%95%86%E5%9F%8E%E4%B8%8A%E7%BA%BF%E7%89%88%E6%9C%AC/personMerchants/MyBlocksKit.framework/Headers/UIActionSheet+BlocksKit.h
+END
+NSObject+BKBlockObservation.h
+K 25
+svn:wc:ra_dav:version-url
+V 219
+/svn/haiercash/!svn/ver/20870/HaiercashPayAPP/branches/IosBranch%E5%97%A8%E4%BB%98/2017.4%E5%95%86%E5%9F%8E%E4%B8%8A%E7%BA%BF%E7%89%88%E6%9C%AC/personMerchants/MyBlocksKit.framework/Headers/NSObject+BKBlockObservation.h
+END
+NSMutableSet+BlocksKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 214
+/svn/haiercash/!svn/ver/20870/HaiercashPayAPP/branches/IosBranch%E5%97%A8%E4%BB%98/2017.4%E5%95%86%E5%9F%8E%E4%B8%8A%E7%BA%BF%E7%89%88%E6%9C%AC/personMerchants/MyBlocksKit.framework/Headers/NSMutableSet+BlocksKit.h
+END
+NSDictionary+BlocksKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 214
+/svn/haiercash/!svn/ver/20870/HaiercashPayAPP/branches/IosBranch%E5%97%A8%E4%BB%98/2017.4%E5%95%86%E5%9F%8E%E4%B8%8A%E7%BA%BF%E7%89%88%E6%9C%AC/personMerchants/MyBlocksKit.framework/Headers/NSDictionary+BlocksKit.h
+END
+UIWebView+BlocksKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 211
+/svn/haiercash/!svn/ver/20870/HaiercashPayAPP/branches/IosBranch%E5%97%A8%E4%BB%98/2017.4%E5%95%86%E5%9F%8E%E4%B8%8A%E7%BA%BF%E7%89%88%E6%9C%AC/personMerchants/MyBlocksKit.framework/Headers/UIWebView+BlocksKit.h
+END

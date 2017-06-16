@@ -1,0 +1,20 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '7.0'
+target 'newHaierCash’ do
+pod 'AFNetworking'
+pod 'MJExtension'
+pod 'MJRefresh'
+pod 'YYCache'
+pod 'MBProgressHUD'
+pod 'SDCycleScrollView'
+pod 'JMRoundedCorner'
+pod 'YYText'
+pod 'LBXScan'
+pod 'IMYWebView’, :git => 'https://github.com/ranshon/IMYWebView'
+pod 'FMDB'
+pod 'YYWebImage'
+pod 'Bugly'
+pod 'IQKeyboardManager'
+
+end
+
